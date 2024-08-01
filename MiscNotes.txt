@@ -1,0 +1,3 @@
+Some notes.
+
+How do you properly add folders via Git?
