@@ -1,2 +1,2 @@
 # py-graphics-ex
-remote dev for my Python dev
+remote repo for my Python dev
